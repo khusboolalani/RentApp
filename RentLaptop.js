@@ -1,5 +1,7 @@
 Dell
 HP
-Compaq
+acer
 Lenovo
+compaq
 chromebook
+
